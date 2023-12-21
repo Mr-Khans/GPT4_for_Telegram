@@ -1,8 +1,6 @@
 # GPT4_for_Telegram
 GitHub repository for the GPT-4 Telegram Bot, a powerful language model integration designed to elevate conversational experiences on the Telegram messaging platform.
 
-# GPT-4 for Telegram
-
 Welcome to the GitHub repository for GPT-4 for Telegram, a powerful language model integration designed to elevate conversational experiences on the Telegram messaging platform.
 
 ## Key Features
