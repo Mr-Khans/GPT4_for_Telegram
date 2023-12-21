@@ -39,3 +39,4 @@ Welcome to the GitHub repository for GPT-4 for Telegram, a powerful language mod
 
 Explore the capabilities of GPT-4 in natural language processing and enhance your Telegram bot experience. Please feel free to contribute, report issues, or suggest enhancements to further strengthen this integration. Thank you for choosing GPT-4 for Telegram!
 
+<p>This code was developed by <a href="https://www.linkedin.com/in/alexey-hanevski-6a0b2b138/" target="_new">Alexey Khaneuski</a>.</p>
